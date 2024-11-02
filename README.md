@@ -1,4 +1,4 @@
-# ✈️ Flight Ticket Booking Discord Bot
+# ✈️ Flight Ticket Basic Booking System Discord Bot (Not Real One)
 
 ### Created by: **Sri Ram Charan** & **Bala Aditya**
 
@@ -27,3 +27,7 @@ Welcome to the **Flight Ticket Booking Discord Bot!** This bot is designed to fa
    ```bash
    git clone https://github.com/yourusername/flight-ticket-bot.git
    cd flight-ticket-bot
+   
+## Disclaimer 
+
+- **This is a basic bot made as Computer Science project. This is a Fun Bot Which was made using python. We casually names it Flight Ticket Booking Bot As we have just programmed some pre loaded Booking system. Its Linked to any realtime Ticket Booking**
