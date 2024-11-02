@@ -1,6 +1,6 @@
 # ✈️ Flight Ticket Booking Discord Bot
 
-### Created by: **Bala Adithya** & **Sri Ram Charan** 
+### Created by: **Sri Ram Charan** & **Bala Aditya**
 
 ---
 
