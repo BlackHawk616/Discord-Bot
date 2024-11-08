@@ -74,13 +74,6 @@ python bot.py
 
 ---
 
-## 📝 Commands
-
-Here’s a list of key commands available with the bot:
-
-
----
-
 ## 🛠️ Tech Stack
 
 Python: Main programming language for bot functionality.
